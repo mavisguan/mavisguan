@@ -4,5 +4,5 @@
 - 👯 I’m looking to collaborate on whoever...
 - ⚡ Fun facts: 
    - :writing_hand: I'm left-handed!
-   - :video_game: I love piano and guitar
+   - :video_game: I love piano, guitar, and Genshin Impact
    
