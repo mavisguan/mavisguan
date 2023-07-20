@@ -3,4 +3,4 @@
 - :book: I'm going to pursue a master degree at OSLab, School of Computer Science at PKU
 - ⚡ Fun facts: 
    - :writing_hand: I'm left-handed!
-   - :video_game: Interests: Piano/Guitar/Genshin Impact/The Legend of Zelda
+   - :video_game: Interests: Piano/Guitar/Genshin Impact
